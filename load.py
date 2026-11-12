@@ -72,9 +72,6 @@ MANDATORY_COLUMNS = [
 PRIMARY_KEY = ["Employee_ID"]
 
 
-# ==========================================================
-# 2. LOGGING CONFIGURATION
-# ==========================================================
 
 logging.basicConfig(
     filename=LOG_FILE,
